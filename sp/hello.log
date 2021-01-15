@@ -1,0 +1,8 @@
+2021-01-14 14:12:19,612-INFO-[logging_02.py-log1()-10行]->info
+2021-01-14 14:12:19,613-WARNING-[logging_02.py-log1()-11行]->warning
+2021-01-14 14:12:19,613-ERROR-[logging_02.py-log1()-12行]->error
+2021-01-14 14:12:19,613-CRITICAL-[logging_02.py-log1()-13行]->critical
+2021-01-14 14:13:04,748-INFO-[logging_02.py-log1()-10行]->信息级别info
+2021-01-14 14:13:04,749-WARNING-[logging_02.py-log1()-11行]->warning
+2021-01-14 14:13:04,749-ERROR-[logging_02.py-log1()-12行]->error
+2021-01-14 14:13:04,749-CRITICAL-[logging_02.py-log1()-13行]->critical
